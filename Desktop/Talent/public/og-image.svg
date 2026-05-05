@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Talentifiers preview image">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06111F" />
+      <stop offset="100%" stop-color="#0B1F3A" />
+    </linearGradient>
+    <linearGradient id="teal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0FB9B1" />
+      <stop offset="100%" stop-color="#65E6D9" />
+    </linearGradient>
+    <linearGradient id="coral" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF6B4A" />
+      <stop offset="100%" stop-color="#FF9A7D" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)" />
+  <circle cx="1090" cy="80" r="180" fill="#0FB9B1" opacity="0.12" />
+  <circle cx="1020" cy="520" r="220" fill="#FF6B4A" opacity="0.12" />
+  <circle cx="240" cy="540" r="220" fill="#0FB9B1" opacity="0.1" />
+
+  <text x="80" y="118" fill="#D8E4F1" font-family="Inter, Arial, sans-serif" font-size="24" letter-spacing="4">
+    TALENTIFIERS
+  </text>
+  <text x="80" y="212" fill="#FFFFFF" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="72" font-weight="700">
+    Premium enterprise
+  </text>
+  <text x="80" y="288" fill="#FFFFFF" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="72" font-weight="700">
+    technology partner
+  </text>
+  <text x="82" y="350" fill="#AAB7C8" font-family="Inter, Arial, sans-serif" font-size="30">
+    Software development, cloud, analytics, consulting, testing, and business solutions.
+  </text>
+
+  <rect x="80" y="418" width="248" height="100" rx="24" fill="#0F223D" stroke="#284364" />
+  <text x="108" y="456" fill="#0FB9B1" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">
+    ESTABLISHED 2001
+  </text>
+  <text x="108" y="492" fill="#FFFFFF" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="28" font-weight="600">
+    Hyderabad based
+  </text>
+
+  <rect x="360" y="418" width="248" height="100" rx="24" fill="#0F223D" stroke="#284364" />
+  <text x="388" y="456" fill="#0FB9B1" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">
+    SERVICES
+  </text>
+  <text x="388" y="492" fill="#FFFFFF" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="28" font-weight="600">
+    7 core pillars
+  </text>
+
+  <rect x="640" y="418" width="480" height="154" rx="28" fill="#0F223D" stroke="#284364" />
+  <rect x="676" y="456" width="156" height="18" rx="9" fill="url(#teal)" />
+  <rect x="676" y="488" width="220" height="18" rx="9" fill="url(#coral)" opacity="0.9" />
+  <rect x="676" y="520" width="284" height="18" rx="9" fill="#284364" />
+  <rect x="948" y="448" width="134" height="86" rx="20" fill="#081522" stroke="#2B425D" />
+  <text x="980" y="486" fill="#FFFFFF" font-family="Inter Tight, Inter, Arial, sans-serif" font-size="24" font-weight="700">
+    Demo
+  </text>
+  <text x="970" y="516" fill="#AAB7C8" font-family="Inter, Arial, sans-serif" font-size="16">
+    Ready to launch
+  </text>
+</svg>
